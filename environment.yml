@@ -1,0 +1,31 @@
+name: daia
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  # Core
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pillow
+  - tqdm
+  - jupyter
+  - notebook
+  - regex
+  - onnx
+  - onnxruntime
+
+  # For notebooks & images
+  - opencv
+
+  # Install pip-only packages
+  - pip:
+      - timm
+      - easyocr
+      - mediapipe==0.10.14
+      - protobuf==3.20.3
+      - onnxruntime-gpu

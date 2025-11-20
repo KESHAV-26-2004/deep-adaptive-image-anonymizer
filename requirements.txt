@@ -1,0 +1,37 @@
+# Core Python dependencies
+numpy
+pandas
+matplotlib
+tqdm
+scikit-learn
+pillow
+regex
+
+# Jupyter environment
+jupyter
+notebook
+
+# PyTorch CUDA (installed separately)
+# torch
+# torchvision
+# torchaudio
+
+# Computer vision
+opencv-python
+
+# Model architectures (EfficientNet, etc.)
+timm
+
+# OCR
+easyocr
+
+# Mediapipe (GPU-safe)
+mediapipe==0.10.14
+protobuf==3.20.3
+
+# ONNX
+onnx
+onnxruntime-gpu
+
+# Utilities
+pathlib

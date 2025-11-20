@@ -1,0 +1,43 @@
+# ============================
+# PYTHON / NOTEBOOK
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.log
+
+# ============================
+# ENVIRONMENTS
+# ============================
+env/
+venv/
+.venv/
+.conda/
+*.egg-info/
+
+# ============================
+# DO NOT UPLOAD ANY NOTEBOOKS
+# (Only src code & models allowed)
+# ============================
+*.ipynb
+
+# ============================
+# DATA CONTROL
+# ============================
+# Ignore entire data folder EXCEPT data-links.txt
+data/*
+!data/data-links.txt
+
+# ============================
+# MODELS (UPLOAD MODEL WEIGHTS)
+# ============================
+# Allow models folder completely
+# (If any >100MB file errors in GitHub,
+#  you will push using Git LFS)
+# ============================
+
+# ============================
+#
