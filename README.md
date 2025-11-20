@@ -154,7 +154,7 @@ python src/Batch Anonymizer & Prediction Checker.ipynb --input data/ --output re
 
 # 📸 **Examples**
 
-(assets/Screenshot 2025-11-20 163402.png)
+![1.](assets/Screenshot 2025-11-20 163402.png)
 
 ---
 
