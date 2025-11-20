@@ -155,8 +155,10 @@ python src/Batch Anonymizer & Prediction Checker.ipynb --input data/ --output re
 # 📸 **Examples**
 
 ![1.](assets/1.png)
-![2.](assets/1.png)
-![3.](assets/1.png)
+
+![2.](assets/2.png)
+
+![3.](assets/3.png)
 
 ---
 
